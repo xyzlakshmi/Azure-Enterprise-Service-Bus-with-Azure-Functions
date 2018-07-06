@@ -9,5 +9,6 @@ public class Messages
     public const string HHHUpdated = "HHHUPDATED";
     public const string HHHPersonDetailsUpdate = "HHHPERSONDETAILSUPDATE";
     public const string HHHGurdianDetailaUpdate = "HHHGURDIANDETAILSUPDATE";
-   
+    public const string HHHGurdianDetailaUpdate = "HHHGURDIANDETAILSUPDATE1";
+
 }
