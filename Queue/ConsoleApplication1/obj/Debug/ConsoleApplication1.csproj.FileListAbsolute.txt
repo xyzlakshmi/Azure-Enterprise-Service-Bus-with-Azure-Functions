@@ -1,0 +1,10 @@
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Architecture\azure\Azure Service Bus\Queue\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
