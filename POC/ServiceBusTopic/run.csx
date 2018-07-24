@@ -37,7 +37,7 @@ ICollector<string> outputSbMsg
          foreach(HouseHold hhRec in queryResults)
          {
            string Output = "Messages.HHHNew" + hhRec.ToString();
-           log.Info($"output: {Output}");
+           //log.Info($"output: {Output}");
             outputSbMsg.Add(Output);
          }
            
