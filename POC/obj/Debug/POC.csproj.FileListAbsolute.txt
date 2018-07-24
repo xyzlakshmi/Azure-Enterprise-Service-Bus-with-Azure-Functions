@@ -17,3 +17,4 @@ D:\Architecture\azure\Azure Service Bus\POC\bin\Microsoft.CodeDom.Providers.DotN
 D:\Architecture\azure\Azure Service Bus\POC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Architecture\azure\Azure Service Bus\POC\obj\Debug\POC.dll
 D:\Architecture\azure\Azure Service Bus\POC\obj\Debug\POC.pdb
+D:\Architecture\azure\Azure Service Bus\POC\obj\Debug\POC.csprojResolveAssemblyReference.cache
