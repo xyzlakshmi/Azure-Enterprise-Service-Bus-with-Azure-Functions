@@ -3,7 +3,7 @@
  $pass = 'Infy$123'
  $subscriptionId = '02a0c632-86b4-4972-8b2a-c20752d297f8'
 
-Login-AzureRmAccount
+Login-AzureRmAccount 
 Select-AzureRmSubscription -SubscriptionId $subscriptionId
 
 New-AzureRmResourceGroup -Name testgroup -Location "Central India"
