@@ -77,6 +77,7 @@
     <Content Include="ARMTemplates\AzureServiceBus_ARM.Parameters.json" />
     <Content Include="ARMTemplates\AzureStoragePowerShell.ps1" />
     <Content Include="ARMTemplates\ps1.ps1" />
+    <Content Include="ARMTemplates\MiSiS Modularization to MSA Implementation.pptx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
