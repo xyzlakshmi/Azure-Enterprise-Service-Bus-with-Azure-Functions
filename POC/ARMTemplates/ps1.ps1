@@ -1,7 +1,7 @@
 Install-Module AzureRM -Scope CurrentUser 
- $UserName = 'Manjunath_s07@infosys.com'
+ $UserName = ''
  $password = 'cd..'
- $subscriptionId = '02a0c632-86b4-4972-8b2a-c20752d297f8'
+ $subscriptionId = ''
  #$credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList ($UserName, $password)
  #Login-AzureRmAccount -Credential $credential
  #Select-AzureRmSubscription -SubscriptionId $subscriptionId
